@@ -14,3 +14,5 @@ championships.unshift(21)
 puts manufacturers[0]
 #the next line will output 4
 puts championships[4]
+#the next line will clear the top_speed array
+top_speed.clear
