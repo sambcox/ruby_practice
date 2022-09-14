@@ -10,3 +10,7 @@ is_active.push(false)
 top_speed.shift
 #next line will add 21 to the beginning of the championships array
 championships.unshift(21)
+#the next line will demonstrate index positions - it will output "Ferrari"
+puts manufacturers[0]
+#the next line will output 4
+puts championships[4]
